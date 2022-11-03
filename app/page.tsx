@@ -3,10 +3,16 @@ import { NextPage } from 'next'
 /**
  * Home page.
  */
-export const HomePage: NextPage = () => {
+const HomePage: NextPage = () => {
   return (
     <>
-      <h1>body</h1>
+      <h1>ほたのポートフォリオになる予定のサイト</h1>
+      <p>このサイトは現在開発中です。</p>
+      <div>
+        <a href="https://twitter.com/hota1024" target="_blank" rel="noreferrer">
+          Twitter
+        </a>
+      </div>
     </>
   )
 }
