@@ -6,7 +6,7 @@ import { NextPage } from 'next'
 const HomePage: NextPage = () => {
   return (
     <>
-      <h1>ほたのポートフォリオになる予定のサイト</h1>
+      <h1>ほた(hota1024)のポートフォリオになる予定のサイト</h1>
       <p>このサイトは現在開発中です。</p>
       <section>
         <h2>リンク</h2>
